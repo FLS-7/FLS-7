@@ -28,14 +28,14 @@
 ---
 
 ### 📈 Best Work
-| Project | Business Impact | Tech | Link |
+| Project | Context | Tech | Link |
 | :--- | :--- | :--- | :---: |
 | **AdventureWorks** | Centralized sales view for a global retail simulation. | `Power BI` `DAX` `Star Schema` | [📂 Repo](https://github.com/FLS-7/AdventureWorks-Sales-Dashboard) |
 | **Logic Lab** | Algorithmic solutions for data manipulation. | `Python` `Algorithms` | [📂 Repo](https://github.com/FLS-7/advent-of-code-2025-py) |
 
 ---
 
-### 🏆 Proficiency & Coding DNA
+### 🏆 Competitive Coding
 <p align="left">
   <a href="https://www.codewars.com/users/FLS-7">
     <img src="https://www.codewars.com/users/FLS-7/badges/micro" alt="Codewars" />
@@ -57,7 +57,7 @@
 
 ---
 
-### 📫 Connect with me
+### 📫 Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flaviosales7/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
 

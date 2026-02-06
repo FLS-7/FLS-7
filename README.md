@@ -44,10 +44,6 @@
   <a href="https://www.hackerrank.com/elvanguard">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" height="20" />
   </a>
-  &nbsp;
-  <a href="https://stackoverflow.com/users/22461947/fl%c3%a1vio-sales">
-    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" height="20" />
-  </a>
 </p>
 
 ---

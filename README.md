@@ -50,7 +50,7 @@
 
 ### 📫 Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flaviosales7/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:salesflavio006@gmail.com)
 
 <br/>
 <div align="center">

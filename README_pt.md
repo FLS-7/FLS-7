@@ -15,6 +15,7 @@
 ### 🛠️ Stack Tecnológico
 <div align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="25" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white" height="25" />
@@ -27,7 +28,7 @@
 | Projeto          | Contexto                                              | Tecnologias              | Link                                                                 |
 |------------------|-------------------------------------------------------|--------------------------|----------------------------------------------------------------------|
 | **AdventureWorks** | Visão centralizada de vendas para simulação de varejo global | `Power BI` `DAX` `Star Schema` | [📂 Repositório](https://github.com/FLS-7/AdventureWorks-Sales-Dashboard) |
-| **Logic Lab**      | Soluções algorítmicas para manipulação de dados       | `Python` `Algoritmos`    | [📂 Repositório](https://github.com/FLS-7/advent-of-code-2025-py)     |
+| **Soluções Advent of code 2025**      | Soluções algorítmicas para manipulação de dados       | `Python` `Algoritmos`    | [📂 Repositório](https://github.com/FLS-7/advent-of-code-2025-py)     |
 ---
 
 ### 🏆 Programação Competitiva
@@ -50,3 +51,4 @@
   <img src="https://raw.githubusercontent.com/FLS-7/FLS-7/output/github-contribution-grid-snake.svg" alt="Animação da cobra" />
 
 </div>
+

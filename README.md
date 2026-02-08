@@ -19,6 +19,7 @@
 ### 🛠️ Tech Stack
 <div align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="25" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white" height="25" />
@@ -31,7 +32,7 @@
 | Project | Context | Tech | Link |
 | :--- | :--- | :--- | :---: |
 | **AdventureWorks** | Centralized sales view for a global retail simulation. | `Power BI` `DAX` `Star Schema` | [📂 Repo](https://github.com/FLS-7/AdventureWorks-Sales-Dashboard) |
-| **Logic Lab** | Algorithmic solutions for data manipulation. | `Python` `Algorithms` | [📂 Repo](https://github.com/FLS-7/advent-of-code-2025-py) |
+| **Advent of code 2025 Solutions** | Algorithmic solutions for data manipulation. | `Python` `Algorithms` | [📂 Repo](https://github.com/FLS-7/advent-of-code-2025-py) |
 
 ---
 ### 🏆 Competitive Coding

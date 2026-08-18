@@ -51,7 +51,7 @@ I am especially interested in workflows around lead intake, CRM updates, booking
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [automations-vault](https://github.com/FLS-7/automations-vault) | Workspace for reusable automation patterns, scenarios, and operating notes. | Make · APIs · Webhooks |
+| [automations-vault](https://github.com/FLS-7/automations-vault) | A public, structured journal of my progression from beginner to senior in automation: daily blueprints, study notes, experiments, and lessons learned. | Make · APIs · Webhooks · Documentation |
 | [ssa-fintech](https://github.com/FLS-7/ssa-fintech) | Automated data pipeline with asynchronous ingestion, SQL transformations, anomaly detection, and BI-ready outputs. | Python · SQL · Pandas · Pytest |
 
 <!-- Add new public automation case studies here as they become available. -->
